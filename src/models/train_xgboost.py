@@ -17,7 +17,7 @@ FEATURE_COLS = [
     # Meteorological (ERA5)
     "temp_c", "wind_speed", "relative_humidity",
     "blh_mean", "blh_min", "blh_max",
-    "sp_mean", "tp_mean",
+
     # Spatial
     "latitude", "longitude",
     "lat_sin", "lat_cos", "lon_sin", "lon_cos",
